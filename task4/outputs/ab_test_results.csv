@@ -1,0 +1,15 @@
+Metric,Value
+Control Visitors,10000.0
+Control Conversions,750.0
+Control Conversion Rate,0.075
+Treatment Visitors,10000.0
+Treatment Conversions,900.0
+Treatment Conversion Rate,0.09
+Absolute Difference,0.015
+Relative Lift,20.0
+Z Score,3.8551941163203147
+P Value,5.7818918137101185e-05
+Control CI Lower,0.06983762452270609
+Control CI Upper,0.0801623754772939
+Treatment CI Lower,0.08439094056534566
+Treatment CI Upper,0.09560905943465434

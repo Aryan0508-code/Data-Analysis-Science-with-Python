@@ -1,0 +1,7 @@
+Metric,Value
+Number of Rows,100.0
+Number of Columns,14.0
+Fare Pearson Correlation,0.0614
+Fare Spearman Correlation,0.0449
+IQR Fare Outliers,9.0
+Z-Score Fare Outliers,2.0

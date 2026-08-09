@@ -1,0 +1,5 @@
+customer_id,product,region,sale_date,price,revenue,quantity
+C001,Laptop,Western,2023-12-01,1000,2000.0,2
+C006,Mouse,Southern,2023-12-06,25,50.0,2
+C008,Laptop,Western,2023-12-08,1000,1000.0,1
+C009,Phone,Southern,2023-12-09,500,550.0,2

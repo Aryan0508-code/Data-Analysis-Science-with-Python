@@ -1,0 +1,11 @@
+customer_id,product,region,sale_date,price,revenue,quantity,notes,temp_id
+C001, Laptop ,west,2023-12-01,"$1000",2000,2,Good customer,T001
+C002,Phone,SOUTH,01/12/2023,"$500",500,1,Repeat customer,T002
+C003, laptop,West,2023/12/03,"$1000",,1,,T003
+C004,Headphones, south ,12-04-2023,"$100",300,3,Discount applied,T004
+C004,Headphones, south ,12-04-2023,"$100",300,3,Discount applied,T004
+,Keyboard,west,2023-12-05,"$50",100,2,Missing customer,T005
+C006, Mouse ,SOUTH,2023-12-06,"$25",50,2,New customer,T006
+C007,Monitor,west,invalid-date,"$300",600,2,Date needs correction,T007
+C008, laptop ,WEST,2023-12-08,"$1000",1000,1,,T008
+C009,Phone,SOUTH,2023-12-09,"$500",,2,Revenue missing,T009
